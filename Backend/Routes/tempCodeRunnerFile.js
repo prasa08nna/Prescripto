@@ -1,0 +1,1 @@
+userRouter.post('/payment-razorpay',authUser,paymentRazorPay)
